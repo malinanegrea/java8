@@ -1,0 +1,4 @@
+Breakfast 356
+Grooming 482
+Showering 564
+Snack 48
